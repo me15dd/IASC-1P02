@@ -1,0 +1,12 @@
+#wrapper{background-color: white;}
+#header{
+  background-color: purple; height:100px;
+  text-align: center;
+  color: white;
+  padding: 16px
+}
+#content{background-color: pink; height:400px; padding: 16px;
+  color: white}
+#footer{
+  background-color: red; padding: 16px;
+  color: white;}

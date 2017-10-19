@@ -1,0 +1,11 @@
+body {background-color: green}
+#wrapper{width:800px; margin:0 auto;}
+#header{
+  background-color: purple; height:100px;
+  text-align: center;}
+#nav1{background-color: pink; height:200px; padding: 16px;
+  color: black; float: left; width:30%}
+#nav2{background-color: orange; height:200px; padding: 16px;
+  color: black; float: left; width:70%}
+#content{background-color: blue; height: 400px;}
+#footer{background-color: red; padding: 16px; height: 75px; clear:both;}
