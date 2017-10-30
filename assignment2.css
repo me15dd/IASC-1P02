@@ -1,0 +1,26 @@
+.pink {color: pink; position:fixed;}
+h1 {font-size: 20px;}
+.fontchange { font-family: "Comic Sans", Comic, sans-serif; text-transform: uppercase; position:absolute;}
+p {position:relative;}
+div p {background-color:purple;}
+#wrapper{background-color: white;}
+#header{
+  background-color: purple; height:100px;
+  text-align: center;
+  color: white;
+  padding: 16px;
+  margin:0 auto;
+  max-width: 500px;
+}
+#content{background-color: pink; height:445px; padding: 16px;
+  color: white}
+#footer{
+  background-color: blue; padding: 16px;
+  color: white;}
+.box {
+margin-top:20px;
+margin-right:10%;
+margin-bottom:20px;
+margin-left:10%;
+border: white 7px outset;
+}
