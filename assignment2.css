@@ -2,7 +2,7 @@
 h1 {font-size: 20px;}
 .fontchange { font-family: "Comic Sans", Comic, sans-serif; text-transform: uppercase; position:absolute;}
 p {position:relative;}
-div p {background-color:purple;}
+div p, .fontchange {background-color:purple;}
 #wrapper{background-color: white;}
 #header{
   background-color: purple; height:100px;
