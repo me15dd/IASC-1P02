@@ -1,0 +1,5 @@
+body {background-color: blue;}
+.box1 {border-style: solid; margin:100px; height:400px; padding:10px}
+.text {border:3px dotted white;}
+.picture {height:200px; width:200px; border:dashed 1px white; padding:10px;}
+.text p{margin:15px}
